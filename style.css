@@ -1,0 +1,43 @@
+body {
+    background-color: gray;
+}
+section {
+    background-color: honeydew;
+}
+h1 {
+    color:aqua;
+}
+h2{
+    color: blueviolet;
+}
+h3 {
+    columns: black;
+}
+.color-case {
+    color: black;
+}
+#top {
+    background: magenta;
+}
+nav a {
+    color: brown;
+}
+
+a {
+    color: darkblue;
+}
+
+.notatki-wft {
+    color: pink;
+    background: blue;
+}
+
+.ciekawostki {
+    color: cadetblue;
+    background: coral;
+}
+
+.pamietaj {
+    color: crimson;
+    background-image: -moz-element();
+}
